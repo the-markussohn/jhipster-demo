@@ -34,6 +34,8 @@
     "nativeLanguage": "en",
     "languages": [
       "en"
-    ]
+    ],
+    "herokuAppName": "jhip-blog",
+    "herokuDeployType": "git"
   }
 }
