@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "lt.markussohn.blog",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "monolith",
+    "baseName": "blog",
+    "packageName": "lt.markussohn.blog",
+    "packageFolder": "lt/markussohn/blog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YWVhODdjZjUwNzljZGJkNjAyMGI3Y2UwNGRmMWE2NGJjYzIwNDRiOGU5ZDFhMGVkYjY0MmY5ODE5YmQ5NzkyNWRhMzRhODMxMzdiOWJiN2NhYmJlNjg0OWI5MzM2M2JkYjJmMDgxODVkMGVjODU1ZTU0ZWVhYmVmODViYmE5MjE=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ]
+  }
+}
